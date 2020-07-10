@@ -16,5 +16,5 @@ Here are some personal projects and open source projects:
 🐦 https://twitter.com/brunopulis <br>
 💼 https://www.linkedin.com/in/pulis/ <br>
 🚀 https://brunopulis.com/ <br>
-🤳 https://instagram.com/brunopulisdev
+🤳 https://instagram.com/brunopulisdev <br>
 📲 https://t.me/canaldopulis

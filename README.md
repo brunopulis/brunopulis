@@ -6,15 +6,15 @@ In my free time I dedicate to reading and writing articles and share knowledge w
 
 Here are some personal projects and open source projects:
 
-♿ [Awesome A11y](https://github.com/brunopulis/awesome-a11y)
-🐞 [QA Brasil](https://github.com/qa-brasil)
-📓 [Ensaios Poéticos](https://ensaiospoeticos.com.br)
-👾 [Awesome Cypress](https://github.com/brunopulis/awesome-cypress)
+* ♿ [Awesome A11y](https://github.com/brunopulis/awesome-a11y)
+* 🐞 [QA Brasil](https://github.com/qa-brasil)
+* 📓 [Ensaios Poéticos](https://ensaiospoeticos.com.br)
+* 👾 [Awesome Cypress](https://github.com/brunopulis/awesome-cypress)
 
 ### You can find me here 🌎
 
-🐦 https://twitter.com/brunopulis <br>
-💼 https://www.linkedin.com/in/pulis/ <br>
-🚀 https://brunopulis.com/ <br>
-🤳 https://instagram.com/brunopulisdev <br>
-📲 https://t.me/canaldopulis
+* 🐦 [Twitter](https://twitter.com/brunopulis)
+* 💼 [Linkedin](https://www.linkedin.com/in/pulis)
+* 🚀 [Website](https://brunopulis.com)
+* 🤳 [Instagram](https://instagram.com/brunopulisdev)
+* 📲 [Telegram Channel - PT-BR](https://t.me/canaldopulis)

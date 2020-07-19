@@ -4,6 +4,8 @@ My name is Bruno Pulis. I'm from Brazil. I started my carrer like a Frontend Dev
 
 In my free time I dedicate to reading and writing articles and share knowledge with the community.
 
+![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=brunopulis&show_icons=true)
+
 Here are some personal projects and open source projects:
 
 * ♿ &nbsp; [Awesome A11y](https://github.com/brunopulis/awesome-a11y)

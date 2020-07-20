@@ -12,11 +12,11 @@ const sync = async () => {
 	const response = await axios.get(URL);
 	const { feed } = await parseStringPromise(response.data);
 
-
 	const latestPosts = feed.entry.slice(0, 3).map(entry => ({
-		title: entry.title[0],
+		title: entry.title[0]["_"],
 		url: entry.link[0]["$"]["href"]
 	}));
+	console.log(latestPosts)
 
 	const readmeContent = readFileSync(README, "utf8");
 

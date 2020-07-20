@@ -1,0 +1,30 @@
+{
+  "name": "brunopulis",
+  "version": "1.0.0",
+  "author": "Bruno Pulis <brunopulis@protonmail.com> (https://brunopulis.com)",
+  "description": "Github profile repository",
+  "main": "sync.js",
+  "scripts": {
+    "sync": "node sync.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopulis/brunopulis.git"
+  },
+  "keywords": [
+    "brunopulis",
+    "frontend",
+    "developer",
+    "quality",
+    "assurance"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunopulis/brunopulis/issues"
+  },
+  "homepage": "https://github.com/brunopulis/brunopulis#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "xml2js": "^0.4.23"
+  }
+}

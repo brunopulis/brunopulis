@@ -1,3 +1,5 @@
+![Sync](https://github.com/brunopulis/brunopulis/workflows/Sync/badge.svg)
+
 ## Hello, there! 🤓
 
 My name is Bruno Pulis. I'm from Brazil. I started my carrer like a Frontend Developer and nowdays I'm a Quality Assurance at [Monetizze](https://monetizze.com.br) also I'm a Accessibility Advocate.

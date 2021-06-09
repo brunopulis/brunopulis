@@ -2,7 +2,7 @@
 
 ## Hello, there! 🤓
 
-My name is Bruno Pulis. I'm from Brazil. I started my carrer like a Frontend Developer and nowdays I'm a Quality Assurance at [Monetizze](https://monetizze.com.br) also I'm a Accessibility Advocate.
+My name is Bruno Pulis. I'm from Brazil. I started my carrer like a Frontend Developer and nowdays I'm a Test Specialist in A11y at [everis](https://www.everis.com/global/en) also I'm a Accessibility Advocate.
 
 In my free time I dedicate to reading and writing articles and share knowledge with the community.
 

@@ -17,8 +17,7 @@ Here are some personal projects and open source projects:
 
 ### You can find me here 🌎
 
-* 🐦 &nbsp; [Twitter](https://twitter.com/brunopulis)
-* 💼 &nbsp; [Linkedin](https://www.linkedin.com/in/pulis)
-* 🚀 &nbsp; [Website](https://brunopulis.com)
-* 🤳 &nbsp; [Instagram](https://instagram.com/brunopulisdev)
-* 📲 &nbsp; [Telegram Channel - PT-BR](https://t.me/canaldopulis)
+* [YouTube](https://www.youtube.com/c/BrunoPulis)
+* [Instagram](https://instagram.com/brunopulisdev)
+* [Linkedin](https://www.linkedin.com/in/pulis)
+* [Website](https://brunopulis.com)

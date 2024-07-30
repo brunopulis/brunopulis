@@ -27,4 +27,4 @@ My letters is only in brazillian portuguese.
 
 I send out a short email each weekly with code snippets, tools, techniques, and interesting stuff from around the web.
 
-[Join me →](https://subscribepage.io/cartas)
+[Join me →](https://brunopulis.ck.page)
